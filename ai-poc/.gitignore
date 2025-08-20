@@ -1,0 +1,9 @@
+report_poc_sample/
+__pycache__/
+models/hf/
+index/faiss.index
+index/meta.jsonl
+.env
+*.pyc
+.DS_Store
+.cache/
